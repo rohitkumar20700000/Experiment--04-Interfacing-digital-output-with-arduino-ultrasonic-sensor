@@ -1,9 +1,9 @@
-# EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
+# EXP-04-Distance measurement using Ultrasonic sensor
 
-###  DATE: 08-03-2024
+###  DATE:25/03/2024
 ###  NAME: ROHIT KUMAR M
-###  ROLL NO :212221220045
-###  DEPARTMENT: IT
+###  ROLL NUMBER :212221220045
+###  DEPARTMENT: INFORMATION TECHNOLOGY
 
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
