@@ -1,8 +1,8 @@
 # EXP-04-Distance measurement using Ultrasonic sensor
 
-###  DATE:25/03/2024
+###  DATE: 25/03/2024
 ###  NAME: ROHIT KUMAR M
-###  ROLL NUMBER :212221220045
+###  ROLL NUMBER : 212221220045
 ###  DEPARTMENT: INFORMATION TECHNOLOGY
 
 ## AIM: 
